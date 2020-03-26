@@ -1,2 +1,1 @@
-# Network_Security
-This  repo is about hit network security course lab.
+﻿﻿# Network_SecurityThis  repo is about hit network security course lab.## Lab1 基于connect的扫描端口程序client_1.c和server_2.c 实现正常的C/S交互。src实现扫描程序
