@@ -1,1 +1,1 @@
-﻿﻿﻿# Network_SecurityThis  repo is about hit network security course lab.## Lab1 基于connect的扫描端口程序client_1.c和server_2.c 实现正常的C/S交互。src实现扫描程序## Lab2 基于libpcap的捕包程序linux下安装libpcap，编写相应程序捕获lab1中的特定格式数据报，并写入文件
+﻿﻿﻿﻿﻿﻿# Network_SecurityThis  repo is about hit network security course lab.## Lab1 基于connect的扫描端口程序client_1.c和server_2.c 实现正常的C/S交互。src实现扫描程序## Lab2 基于libpcap的捕包程序linux下安装libpcap，编写capture.c捕获lab1中的特定格式数据报，并写入文件测试为1中的客户端服务器交互过程中捕获的数据包，可自行测试
