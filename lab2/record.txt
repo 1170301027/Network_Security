@@ -1,0 +1,75 @@
+
+Recieve Datagram:
+\B4
+
+Recieve Datagram:
+\B4
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+\B4
+\F7\BC\E1P
+
+Recieve Datagram:
+\B4
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+GET / HTTP/1.1
+Host: connectivity-check.ubuntu.com
+Accept: */*
+Connection: close
+
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+HTTP/1.1 204 No Content
+Date: Sun, 29 Mar 2020 11:18:04 GMT
+Server: Apache/2.4.18 (Ubuntu)
+X-NetworkManager-Status: online
+Connection: close
+
+
+Recieve Datagram:
+\B4
+
+Recieve Datagram:
+\B4
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+2000
+5000
+192.168.124.1
+192.168.124.130
+what
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
+
+
+Recieve Datagram:
