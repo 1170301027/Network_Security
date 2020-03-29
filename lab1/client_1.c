@@ -4,7 +4,7 @@
 #pragma comment(lib, "ws2_32.lib")
 #define SourcePort 2000
 #define TargetPort 5000 //大于 一千
-#define SourceIP "192.168.1.8" //localhost
+#define SourceIP "192.168.124.1" //localhost
 #define TargetIP "192.168.124.130" //服务器ip
 
 #define MaxLength 100
